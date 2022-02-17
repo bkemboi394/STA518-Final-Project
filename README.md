@@ -1,2 +1,2 @@
 # STA518-Final-Project
-Fina project proposal
+Final project proposal
